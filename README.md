@@ -25,7 +25,7 @@ Dans ce bloc on retrouve:
  
  - **Etude_influence_age_genre.png** : image plotly de "Etude de l'influence de l'âge et du genre sur la survie en milieu hospitalier"
  
- - dossier app1 : (contient tous les fichiers de l'application web streamlit):
+ - **dossier app1** : (contient tous les fichiers de l'application web streamlit):
  -      prediction.py (code python streamlit: application web)
  -      Dockerfile : fichier qui liste les instructions à exécuter pour construire une image
  -      dossier .streamlit contient le fichier config.toml qui fait le lien entre le Dockerfile et le serveur web de la plateforme heroku
