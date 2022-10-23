@@ -16,3 +16,15 @@ Lien de l'application :
 
 https://patients-survival-prediction.herokuapp.com/
 
+
+Dans ce bloc on retrouve:
+ - Patient_ Survival _Prediction_Bloc6_version_finale.ipynb : fichier code python (lecture dataset, EDA, machine learning) 
+ 
+ - dataset.zip: contient le fichier dataset.csv sous forme compressée
+ 
+ - dossier app1 : (contient tous les fichiers de l'application web streamlit):
+ 
+        * prediction.py (code python streamlit: application web)
+        * Dockerfile : fichier qui liste les instructions à exécuter pour construire une image
+        * dossier **.streamlit** contient le fichier qui fait lien entre le Dockerfile et le serveur web de la plateforme heroku
+        
