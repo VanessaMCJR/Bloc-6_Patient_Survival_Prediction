@@ -28,5 +28,5 @@ Dans ce bloc on retrouve:
  - dossier app1 : (contient tous les fichiers de l'application web streamlit):
  -      prediction.py (code python streamlit: application web)
  -      Dockerfile : fichier qui liste les instructions à exécuter pour construire une image
- -      dossier **.streamlit** contient le fichier **config.toml** qui fait le lien entre le Dockerfile et le serveur web de la plateforme heroku
+ -      dossier .streamlit contient le fichier config.toml qui fait le lien entre le Dockerfile et le serveur web de la plateforme heroku
         
