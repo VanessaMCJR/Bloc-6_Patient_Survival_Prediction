@@ -21,7 +21,7 @@ Dans ce bloc on retrouve:
 
  - Patient_ Survival _Prediction_Bloc6_version_finale.ipynb : fichier code python (lecture dataset, EDA, machine learning) 
  
- - dataset.zip: contient le fichier dataset.csv sous forme compressée
+ - dataset.zip: contient le fichier dataset.csv sous la forme compressée
  
  - Etude_influence_age_genre.png : image plotly de "Etude de l'influence de l'âge et du genre sur la survie en milieu hospitalier"
  
