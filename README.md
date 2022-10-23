@@ -12,7 +12,7 @@ Les prédicteurs de la mortalité hospitalière des patients admis restent mal c
 
 Et ensuite de créer une application web de prédiction du risque de la mortalité destinée en premier lieu aux personnels soignants afin de faciliter une meilleure prise en charge du patient admis.
 
-Lien de l'application : 
+Lien de l'application web : 
 
 https://patients-survival-prediction.herokuapp.com/
 
