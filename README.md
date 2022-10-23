@@ -1,4 +1,10 @@
 # Projet-final-bloc-6-Patient_-Survival-_Prediction
+
+## Lien de la vidéo de présentation du projet:
+
+https://share.vidyard.com/watch/6sB3nte4rewz9JrhtcVdkf?
+
+
 Prédiction de la survie du patient en milieu hospitalier
 
 Les prédicteurs de la mortalité hospitalière des patients admis restent mal caractérisés. Notre objectif est de développer et de valider un modèle de prédiction de la mortalité hospitalière toutes causes confondues chez les patients admis. 
