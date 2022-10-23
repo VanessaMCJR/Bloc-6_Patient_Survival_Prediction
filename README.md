@@ -14,7 +14,7 @@ Et ensuite de créer une application web de prédiction du risque de la mortalit
 
 ### Lien de l'application web : 
 
-https://patients-survival-prediction.herokuapp.com/
+https://patients-survival-prediction1.herokuapp.com/
 
 
 Dans ce bloc on retrouve:
