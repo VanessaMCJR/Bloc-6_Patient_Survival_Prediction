@@ -289,7 +289,7 @@ st.subheader('Will this patient survive according this model ?)')
 if st.button('Prediction'):
     prediction = model.predict(data)
     if prediction == 0:
-        st.success(f'The patient will not survive according to this model.')
+        st.success(f'The patient will survive according to this model.')
 
     else:
         st.success(f'The patient will not survive according to this model.')
